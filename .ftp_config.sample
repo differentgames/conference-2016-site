@@ -1,0 +1,3 @@
+FTP_USER=<ftp username>
+FTP_HOST=<ftp domain>
+SITE_ROOT=<directory where the site lives on the ftp server>

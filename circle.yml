@@ -1,3 +1,6 @@
+test:
+  override:
+    - echo "Nailed it!!!!"
 machine:
   ruby:
     version: 2.1.1

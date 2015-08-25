@@ -11,6 +11,8 @@ tumblr_username: differentgamescollective
 
 # Build settings
 markdown: kramdown
+exclude:
+  - vendor
 
 collections:
   nav_pages:

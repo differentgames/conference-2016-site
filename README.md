@@ -3,11 +3,14 @@
 <marquee>YOU KNOW IT... YOU LOVE IT...</marquee>
 
 ## Getting started
-Install Jekyll: http://jekyllrb.com/
+Install Ruby and Bundler on your system (https://github.com/postmodern/ruby-install, http://bundler.io/).
 
-Then, you can run the command `jekyll serve` from a command line. You should
+Install all the gems required by this project by running `bundle install` from
+the root of the project.
+
+Then, you can run the command `bundle exec jekyll serve` from a command line. You should
 be able to open your browser to http://localhost:4000 and see the site. As
-long as the `jekyll serve` process is still running, you can edit files in
+long as the `bundle exec jekyll serve` process is still running, you can edit files in
 this project and generally just go bananas, the process will regenerate
 files as necessary, and you'll be able to see your changes at http://localhost:4000.
 

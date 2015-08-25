@@ -13,6 +13,11 @@ tumblr_username: differentgamescollective
 markdown: kramdown
 exclude:
   - vendor
+  - deploy.sh
+  - README.md
+  - circle.yml
+  - Gemfile
+  - Gemfile.lock
 
 collections:
   nav_pages:

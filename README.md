@@ -17,9 +17,11 @@ files as necessary, and you'll be able to see your changes at http://localhost:4
 :boom: :zap: :fireworks:
 
 ## Deploying
-TODO: Continuous integration
+It will happen automagically when you make commits to the master branch!
 
-Until we get an automagical deploy process worked out, you can deploy manually.
+[![Circle CI](https://circleci.com/gh/differentgames/conference-2016-site/tree/master.svg?style=svg)](https://circleci.com/gh/differentgames/conference-2016-site/tree/master)
+
+If you need to deploy manually, you can. (But try not to!)
 Copy the `.ftp_config.sample` file into a file named `.ftp_config`, then edit the
 variables in the `.ftp_config` file as appropriate. Then you can run `./deploy.sh`
 from the root of this project, and it will build and sync your site to the remote

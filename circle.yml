@@ -1,6 +1,6 @@
 test:
   override:
-    - echo "Nailed it!!!!"
+    - bundle exec jekyll build && bundle exec htmlproof _site
 machine:
   ruby:
     version: 2.1.1

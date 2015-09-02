@@ -3,6 +3,16 @@ body {
     font-size: $base-font-size;
 }
 
+.cool {
+  border-bottom: 4px solid rgba(1, 177, 113, .2);
+  transform: translateY(-10px);
+  transition: all .2s linear;
+
+  &:hover {
+    border-bottom: 4px solid rgba(1, 177, 113, 1);
+  }
+}
+
 .pw-banner {
   background-color: $pinwheel-blue;
   background-image: 
@@ -18,6 +28,12 @@ body {
     text-transform: uppercase;
     color: white;
     font-weight:bolder;
+
+    &.conf {
+      margin-top: 0;
+      font-size: $base-font-size * 4;
+      line-height: .75em;
+    }
   }
 
   &:hover {

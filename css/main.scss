@@ -6,8 +6,8 @@
 
 
 // Our variables
-$base-font-family: Helvetica, Arial, sans-serif;
-$base-font-size:   16px;
+$base-font-family: Work Sans, Helvetica, Arial, sans-serif;
+$base-font-size:   18px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
 
@@ -24,6 +24,12 @@ $grey-color-dark:  darken($grey-color, 25%);
 $on-palm:          600px;
 $on-laptop:        800px;
 
+
+$pinwheel-blue:    #7bbcd7;
+$pinwheel-yellow:  #e1cc3f;
+$pinwheel-red:     #e63112;
+$pinwheel-green:   #01b171;
+$pinwheel-dark-blue:#49506a;
 
 
 // Using media queries with like this:
@@ -45,5 +51,6 @@ $on-laptop:        800px;
 @import
         "base",
         "layout",
-        "syntax-highlighting"
+        "syntax-highlighting",
+        "pinwheel"
 ;

@@ -1,0 +1,84 @@
+body {
+    font-family: $base-font-family;
+    font-size: $base-font-size;
+}
+
+.pw-banner {
+  background-color: $pinwheel-blue;
+  background-image: 
+    url("/images/texture.png");
+
+  .banner-logo {
+    margin: 0 auto;
+    max-width: 65%;
+  }
+
+  .banner-dgc-title {
+    font-size: $base-font-size * 2;
+    text-transform: uppercase;
+    color: white;
+    font-weight:bolder;
+  }
+
+  &:hover {
+    text-decoration: none;
+  }
+
+
+  .tagline {
+    width:60%;
+    text-transform: lowercase;
+    display: inline;
+    line-height: $base-line-height;
+    color: white;
+  }
+
+  &.conf {
+    border-bottom: 10px solid $pinwheel-yellow;
+  }
+}
+
+.pw-navbar {
+  background-color: white;
+  @mixin navitem-border($color) {
+    border-bottom: 5px solid $color;
+  }
+
+  li {
+    @include navitem-border(white);
+    transition: all .2s linear;
+  }
+
+  li:hover {
+    @include navitem-border($pinwheel-red);
+  }
+}
+
+.pw-section {
+  padding: 40px;
+
+  a {
+    font-weight: bold;
+  }
+}
+
+.pw-masthead {
+  .blurb {
+    text-align: center;
+    width:80%;
+    font-size: $base-font-size * 1.5;
+    margin: 0.5em auto 2.5em auto;
+    padding: 0.75em;
+    border: 2px solid black;
+  }
+
+}
+
+.site-footer {
+  background-color: $pinwheel-yellow;
+  color: white;
+
+  a {
+    color: white;
+  }
+}

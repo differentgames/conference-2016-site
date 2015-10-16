@@ -53,3 +53,29 @@
 .format-description {
   padding: 10px;
 }
+
+.submit {
+  margin-top: 2em;
+
+  a:hover, a:focus { text-decoration: none;}
+
+  .papers, .workshops, .arcade { 
+    padding: 1em;
+    color: white;
+    border-radius: 5px;
+
+    h3 {
+      margin-top: 0px;
+    }
+  }
+
+  .papers {
+    background-color: $pinwheel-dark-blue;
+  }
+  .workshops {
+    background-color: $pinwheel-green;
+  }
+  .arcade {
+    background-color: $pinwheel-red;
+  }
+}

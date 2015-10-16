@@ -62,7 +62,12 @@
   .papers, .workshops, .arcade { 
     padding: 1em;
     color: white;
-    border-radius: 5px;
+    opacity: 0.65;
+    transition: 0.2s linear all;
+
+    &:hover {
+      opacity: 1;
+    }
 
     h3 {
       margin-top: 0px;

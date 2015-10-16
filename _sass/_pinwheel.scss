@@ -118,5 +118,6 @@ a {
   transition: .1s ease-in all;
   &:hover {
     color: $pinwheel-dark-blue;
+    text-decoration: none;
   }
 }

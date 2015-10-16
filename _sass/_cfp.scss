@@ -1,3 +1,24 @@
+.submission-formats {
+  h3 {
+    border-bottom: 5px solid white;
+    display:inline-block;
+    color: white;
+    padding:5px;
+  }
+
+  .papers {
+    background: $pinwheel-dark-blue;
+  }
+
+  .workshops {
+    background: $pinwheel-green;
+  }
+
+  .arcade {
+    background: $pinwheel-red;
+  }
+}
+
 .track-chairs {
   margin-top: 40px;
 }
@@ -59,18 +80,25 @@
 
   a:hover, a:focus { text-decoration: none;}
 
+  i {
+    display:inline-block;
+    // font-size:1.5em;
+    margin-right:.25em;
+  }
+
   .papers, .workshops, .arcade { 
     padding: 1em;
     color: white;
-    opacity: 0.65;
+    opacity: 1;
     transition: 0.2s ease-in all;
 
     &:hover {
-      opacity: 1;
+      opacity: .65;
     }
 
     h3 {
       margin-top: 0px;
+      display:inline-block;
     }
   }
 

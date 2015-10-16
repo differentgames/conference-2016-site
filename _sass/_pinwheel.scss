@@ -99,3 +99,24 @@ body {
     color: white;
   }
 }
+
+.pw-btn {
+  background-color: $pinwheel-green;
+  color: white;
+  border-radius: 0px;
+  opacity: 1;
+  transition: .2s ease-in all;
+
+  &:hover {
+    color: white;
+    opacity: .65;
+  }
+}
+
+a {
+  color: $pinwheel-blue;
+  transition: .1s ease-in all;
+  &:hover {
+    color: $pinwheel-dark-blue;
+  }
+}

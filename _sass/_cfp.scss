@@ -28,38 +28,47 @@
   margin: 1em 0;
 
   a {
-    color: $pinwheel-dark-blue;
-    margin: 1em 0;
-    border-bottom: 4px solid rgba(56, 61, 88, 0);
+    display: inline-block;
+    padding: 5px;
     transition: all .2s ease-in-out;
+    transform-origin: center center;
+
+    background: rgba(56, 61, 88, 1);
+    color: white;
+
+
+    &::after {
+      content: '\f067';
+      font-family: FontAwesome;
+      margin: auto 0.5em;
+      color: $pinwheel-blue;
+      font-weight:normal;
+      transform-origin: center center;
+      transform: rotate(45deg);
+      transition: color 0.2s ease-in-out;
+      transition: transform 0.5s ease-in-out;
+      display: inline-block;
+    }
 
     &:focus { text-decoration: none;}
 
-    &:hover {
-      text-decoration: none;
-      border-bottom: 4px solid rgba(56, 61, 88, 0.75);
-    }
+    &:hover, &.collapsed:hover {
+      background: rgba(56, 61, 88, 1);
+      color: white;
 
-    &:hover {
       &::after { 
-        display: inline-block;
-        transform:translateX(5px);
-        backface-visibility: hidden;
+        color: white;
       }
     }
 
-    &::after {
-      content: "Collapse";
-      margin-left: 0.5em;
-      size: 0.5em;
-      color: $pinwheel-blue;
-      font-weight:normal;
-      font-style: italic;
-      transition: all .2s ease-in-out;
-    }
+    &.collapsed {
+      color: $pinwheel-dark-blue;
+      background: rgba(56, 61, 88, 0);
+      transition: color 0.2s ease-in-out;
 
-    &.collapsed::after {
-      content: "Expand";
+      &::after {
+        transform: rotate(0deg);
+      }
     }
 
     h3 {

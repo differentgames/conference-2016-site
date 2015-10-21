@@ -19,25 +19,25 @@ body {
 
 .pw-banner {
   background-color: $pinwheel-blue;
-  background-image: 
-    url("/images/texture.png");
+  color: #60a2bf;
 
   .banner-logo {
     margin: 0 auto;
     max-width: 65%;
+    background: rgba(103,175,207,1);
+    padding: 15px;
+    // border: 9px solid rgba(56, 61, 88, .5);
+    border-radius: 50%;
+
   }
 
   .banner-dgc-title {
-    font-size: $base-font-size * 2;
+    background: $pinwheel-yellow;
+    font-size: $base-font-size * 2.5;
     text-transform: uppercase;
-    color: white;
     font-weight:bolder;
-
-    &.conf {
-      margin-top: 0;
-      font-size: $base-font-size * 3;
-      line-height: .75em;
-    }
+    display: inline-block;
+    padding: 5px;
   }
 
   &:hover {
@@ -47,10 +47,10 @@ body {
 
   .tagline {
     width:60%;
+    background: $pinwheel-yellow;
     text-transform: lowercase;
-    display: inline;
-    line-height: $base-line-height;
-    color: white;
+    display: inline-block;
+    padding: 5px;
   }
 
   &.conf {

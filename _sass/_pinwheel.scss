@@ -4,7 +4,7 @@ body {
 }
 
 .balloon-mx {
-  position: fixed;
+  position: absolute;
   right: 15px;
   top: 50%;
   z-index: 100;
@@ -38,9 +38,8 @@ body {
     max-width: 65%;
     background: rgba(103,175,207,1);
     padding: 15px;
-    // border: 9px solid rgba(56, 61, 88, .5);
     border-radius: 50%;
-
+    border: 9px solid rgba(56, 61, 88, .25);
   }
 
   .banner-dgc-title {

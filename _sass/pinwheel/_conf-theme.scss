@@ -3,18 +3,6 @@ body {
     font-size: $base-font-size;
 }
 
-.balloon-mx {
-  position: absolute;
-  right: 15px;
-  top: 50%;
-  z-index: 100;
-
-  @media (max-width: 800px) {
-    position: static;
-    margin: 0 auto;
-  }
-}
-
 .cool {
   border-bottom: 4px solid rgba(1, 177, 113, .2);
   transform: translateY(-10px);

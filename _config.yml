@@ -19,5 +19,4 @@ exclude:
   - Gemfile.lock
 
 collections:
-  nav_pages:
-    output: true
+  - sessions

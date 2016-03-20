@@ -19,7 +19,10 @@ exclude:
   - Gemfile.lock
 
 collections:
-  - sessions
-  - talks
   nav_pages:
     output: true
+  sessions:
+    output: true
+  talks:
+    output: true
+  

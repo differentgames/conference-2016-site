@@ -26,12 +26,12 @@
               <td>
                 {% if session %}
                   <a href="{{session.permalink}}" class="session-link">{{ session.title }}</a>
-                  <ul>
+<!--                   <ul>
                     {% for talk in session.talks %}
                       <li clas="listed-talk">{{ talk }}</li>
                     {% endfor %}
                   </ul>
-
+ -->
                 {% endif %}
               </td>
             {% endfor %}

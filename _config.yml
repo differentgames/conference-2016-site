@@ -20,3 +20,6 @@ exclude:
 
 collections:
   - sessions
+  - talks
+  nav_pages:
+    output: true

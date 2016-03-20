@@ -1,0 +1,11 @@
+---
+layout: default
+category: session
+id: coffee-break-1
+title: Coffee Break
+
+day: Saturday
+time: 2&colon;45pm - 3&colon;00pm
+timeorder: 6
+room: Main Space
+---

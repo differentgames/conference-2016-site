@@ -1,31 +1,38 @@
-{% assign days = site.sessions | group_by:"day" | sort: "name" %}
-{% for day in days %}
-  {% assign rooms = day.items | group_by: "room" | map: "name" | sort %}
-  {% assign times = day.items | group_by: "time" | map: "name" | sort %}
-  <h3>{{ day.name }}</h3>
-  <table class="table table-striped">
-    <thead>
-      <tr>
-        <th></th>
-        {% for room in rooms %}
-          <th>{{ room }}</th>
-        {% endfor %}
-      </tr>
-    </thead>
-    <tbody>
-      {% for time in times %}
+<div class="schedule">
+  <h2 class="text-center">Conference Schedule</h2>
+
+
+
+  {% assign days = site.sessions | group_by:"day" | sort: "name" %}
+  {% for day in days %}
+    {% assign rooms = day.items | group_by: "room" | map: "name" | sort %}
+    {% assign times = day.items | group_by: "time" | map: "name" | sort %}
+    <h3>{{ day.name }}</h3>
+    <table class="table table-striped">
+      <thead>
         <tr>
-          <th class="col-xs-1">{{time}}</th>
+          <th></th>
           {% for room in rooms %}
-            {% assign session = day.items | where: "room", room | where: "time", time | first %}
-            <td>
-              {% if session %}
-                <a href="{{session.permalink}}">{{ session.title }}</a>
-              {% endif %}
-            </td>
+            <th>{{ room }}</th>
           {% endfor %}
         </tr>
-      {% endfor %}
-    </tbody>
-  </table>
-{% endfor %}
+      </thead>
+      <tbody>
+        {% for time in times %}
+          <tr>
+            <th class="col-xs-1 time-listing">{{time}}</th>
+            {% for room in rooms %}
+              {% assign session = day.items | where: "room", room | where: "time", time | first %}
+              <td>
+                {% if session %}
+                  <a href="{{session.permalink}}" class="session-link">{{ session.title }}</a>
+                {% endif %}
+              </td>
+            {% endfor %}
+          </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  {% endfor %}
+
+</div>

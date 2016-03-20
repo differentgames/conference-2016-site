@@ -1,4 +1,4 @@
-<div class="schedule" id="schedule-at-a-glance">
+<div class="schedule-at-a-glance" id="schedule-at-a-glance">
   <h2 class="text-center">Conference Schedule</h2>
 
 
@@ -26,6 +26,12 @@
               <td>
                 {% if session %}
                   <a href="{{session.permalink}}" class="session-link">{{ session.title }}</a>
+                  <ul>
+                    {% for talk in session.talks %}
+                      <li clas="listed-talk">{{ talk }}</li>
+                    {% endfor %}
+                  </ul>
+
                 {% endif %}
               </td>
             {% endfor %}

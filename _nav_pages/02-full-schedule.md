@@ -5,9 +5,20 @@ permalink: /schedule/
 ---
 {% assign sessions = site.sessions | sort: "title" %}
 {% for session in sessions %}
-  <h2 id="{{ session.id }}">{{ session.title }}</h2>
-  {% for talk in talks %}
-    <h3>Talk title: {{ talk.title }}</h3>
-  {% endfor %}
+  <h2 id="{{ session.id }}">{{ session.title }}, {{ session.time }}, {{ session.room }}</h2>
+  <ul>
+    {% for talkName in session.talks %}
+    {% assign talk = site.talks | where: "title", talkName | first %}
+    <li>
+      <h3>{{ talk.title }}</h3>
+      <ul>
+        {% for presenter in talk.presenters %}
+          <li>{{ presenter }}</li>
+        {% endfor %}
+      </ul>
+      <p> {{ talk.content }}</p>
+    </li>
+    {% endfor %}
+  </ul>
 {% endfor %}
 

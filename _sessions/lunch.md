@@ -3,6 +3,7 @@ layout: default
 category: session
 id: lunch
 title: Lunch
+permalink: /schedule#lunch
 
 day: Saturday
 time: 12&colon;45pm - 1&colon;25pm

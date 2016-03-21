@@ -2,7 +2,7 @@
 layout: default
 category: talk
 id: It’s-Not-Always-About-You!-–-Lessons-Learnt-From-Participatory-Deep-Game-Design
-title: It’s Not Always About You! – Lessons Learnt From Participatory Deep Game Design
+title: It's Not Always About You&#33; - Lessons Learnt From Participatory Deep Game Design
 presenters:
   - Doris C. Rusch
 track: Participatory Game Design

@@ -1,7 +1,8 @@
 ---
 layout: default
 category: talk
-id: Intergenerational-game-design-from-the-participant’s-perspective
+id: Intergenerational-game-design-from-the-participant's-perspective
+permalink: /schedule#Intergenerational-game-design-from-the-participant's-perspective
 title: Intergenerational game design from the participant’s perspective
 presenters:
   - Margarida Romero

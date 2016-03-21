@@ -18,4 +18,4 @@ Indie Games are a tricky commodity from an intellectual property perspective. As
 
 But games are inherently cannibalistic. Games learn from other games and improve from playtests. What then is the line between plagiarism and a homage?
 
-In a media environment that has immense potential for being community owned, is ownership even relevant to our collectivist development environment? "
+In a media environment that has immense potential for being community owned, is ownership even relevant to our collectivist development environment?"

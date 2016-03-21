@@ -11,5 +11,5 @@ timeorder: 3
 room: Main Space
 
 talks:
-  - Coffee&colon; a misunderstanding
+  - Coffee&colon; A Misunderstanding
 ---

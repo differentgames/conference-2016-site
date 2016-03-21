@@ -28,38 +28,23 @@ layout: default
 <hr>
 
 <div class="row">
-  <div class="col-xs-12 pw-section">
+  <div class="col-xs-12 pw-section" id="conference-schedule">
     <h2 class="text-center">Conference Schedule</h2>
 
-    <div class="schedule-controls">
-      <div class="btn-group" role="group" aria-label="...">
-        <button type="button" class="btn btn-default">Schedule at a Glance</button>
-        <button type="button" class="btn btn-default">Schedule Details</button>
-      </div>
+    <section class="schedule-controls">
+      <label class="show-talks-label">Show Session Details</label>
+      <input type="checkbox" name="show-talks" id="show-talks" checked>
+    </section>
 
-      <a href="/schedule" class="btn btn-default">Full Schedule</a>
-    </div>
+    <section class="schedule-content schedule-at-a-glance">
+      {% include schedule-as-a-table.html %}
+    </section>
 
-
+    <section>
+      <a href="/schedule" class="btn btn-lg btn-callout full-schedule-btn pw-btn">Full Schedule With Descriptions</a>
+    </section>
   </div>
 </div>
-
-
-<div class="row">
-  <div class="col-xs-12 pw-section">
-    {% include schedule-as-a-table.html %}
-    
-  </div>
-</div>
-
-<div class="row">
-  <div class="col-xs-12 pw-section">
-
-    {% include schedule-as-a-list.html %}
-    
-  </div>
-</div>
-
 
 <hr>
 
@@ -68,7 +53,6 @@ layout: default
 
     {% include track-chairs.html %}
 
-  </div>
   </div>
 </div>
 
@@ -101,4 +85,5 @@ layout: default
       </a>
     <p>
   </div>
+</div>
 </div>

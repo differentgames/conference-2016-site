@@ -8,5 +8,8 @@ permalink: /schedule#player-agency-mods-glitches-session-3
 day: Saturday
 time: 4&colon;30pm - 5&colon;45pm
 timeorder: 9
-room: Rm. 803
+room: Rm. 805
+
+talks:
+  - The Non-Compliance of Glitch&colon; A Reflection on PsXXYborg
 ---

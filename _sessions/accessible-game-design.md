@@ -10,4 +10,7 @@ time: 1&colon;30pm - 2&colon;45pm
 timeorder: 5
 room: Rm. 803
 
+talks:
+  - Metatuning Accessibility&colon; How High Life&#33; Redefined Collaborative Design
+  - CLONE WARS&colon; The irrelevance of ownership in a collectivist development cycle
 ---

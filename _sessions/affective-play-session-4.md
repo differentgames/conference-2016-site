@@ -9,4 +9,7 @@ day: Saturday
 time: 4&colon;30pm - 5&colon;45pm
 timeorder: 9
 room: Rm. 845
+
+talks:
+  - A Perfectly Normal Panel About Awkwardness in Games
 ---

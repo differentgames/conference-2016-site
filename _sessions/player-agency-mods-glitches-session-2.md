@@ -9,4 +9,7 @@ day: Saturday
 time: 3&colon;00pm - 4&colon;15pm
 timeorder: 7
 room: Rm. 803
+
+talks:
+  - Robots get a bad rap&colon; crafting twitterbots and artificial internet company
 ---

@@ -1,12 +1,8 @@
 <div class="schedule-at-a-glance" id="schedule-at-a-glance">
-  <h2 class="text-center">Conference Schedule</h2>
-
-
-
   {% assign days = site.sessions | group_by:"day" | sort: "name" %}
   {% for day in days %}
     {% assign rooms = day.items | group_by: "room" | map: "name" | sort %}
-    {% assign times = day.items | group_by: "time" | map: "name" | sort %}
+    {% assign times = day.items | group_by: "time" | map: "name"%}
     <h3>{{ day.name }}</h3>
     <table class="table table-striped">
       <thead>

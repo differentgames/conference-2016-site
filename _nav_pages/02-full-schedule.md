@@ -3,7 +3,7 @@ layout: page
 title: Full Schedule
 permalink: /schedule/
 ---
-{% assign sessions = site.sessions | sort: "title" %}
+{% assign sessions = site.sessions %}
 {% for session in sessions %}
   <h2 id="{{ session.id }}">{{ session.title }}, {{ session.time }}, {{ session.room }}</h2>
   <ul>

@@ -1,3 +1,12 @@
+$(function() {
+  $('#nav').affix({
+    offset: {
+        top: $('#nav').offset().top
+    }
+  });
+});
+
+
 $( document ).ready(function() {
   $("[name='show-talks']").bootstrapSwitch();
 

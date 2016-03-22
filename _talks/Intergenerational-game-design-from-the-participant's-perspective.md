@@ -8,6 +8,8 @@ presenters:
   - Margarida Romero
   - Sara Vogel
   - Kim Sawchuk
+  - Hubert Ouellet
+  - Jean-Nicolas Proulx
 track: Participatory Game Design
 session: Participatory Game Design
 day: Saturday

@@ -7,6 +7,8 @@ title: Breaking the age barrier through participatory intergenerational game des
 presenters:
   - Bob De Schutter
   - Margarida Romero
+  - Jean-Nicolas Proulx
+  - Giuliana Cucinelli
 track: Participatory Game Design
 session: Participatory Game Design
 day: Saturday

@@ -10,6 +10,8 @@ time: 7&colon;00pm - 7&colon;50pm
 timeorder: 3
 room: Main Space
 
+track: Affective Play
+
 talks:
   - Coffee&colon; A Misunderstanding
 ---

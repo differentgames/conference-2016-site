@@ -10,6 +10,8 @@ time: 7&colon;00pm - 7&colon;50pm
 timeorder: 3
 room: Rm. 805
 
+track: Participatory Game Design
+
 talks:
   - Learning Theories and Participatory Game Design in Educational Technology
 ---

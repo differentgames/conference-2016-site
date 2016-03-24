@@ -10,6 +10,8 @@ time: 1&colon;30pm - 2&colon;45pm
 timeorder: 5
 room: Rm. 805
 
+track: Video Games & Indigenous Culture
+
 talks:
   - Working with Indigenous Communities
 ---

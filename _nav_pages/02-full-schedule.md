@@ -9,7 +9,32 @@ permalink: /schedule/
   <div class="session">
     <hgroup>
       <h2 id="{{ session.id }}" class="session-title">{{ session.title }}</h2>
-      <h3 class="session-time">{{ session.time }}</h3> <h3 class="session-room">{{ session.room }}</h3>
+      <h3 class="session-time">{{ session.time }}</h3>
+      <h3 class="session-room">{{ session.room }}</h3>
+      {% if session.track == "Affective Play" %}
+        <h3 class='affective-play'>{{session.track}}</h3>
+      {% endif %}
+      {% if session.track == "Race and Culture in Games" %}
+        <h3 class='race-culture-games'>{{session.track}}</h3>
+      {% endif %}
+      {% if session.track == "Player Agency, Mods, and Glitches" %}
+        <h3 class='player-agency-mods-glitches'>{{session.track}}</h3>
+      {% endif %}
+      {% if session.track == "Video Games in Latin America" %}
+        <h3 class='video-games-in-latin-america'>{{session.track}}</h3>
+      {% endif %}
+      {% if session.track == "Video Games & Indigenous Culture" %}
+        <h3 class='video-games-and-indigenous-culture'>{{session.track}}</h3>
+      {% endif %}
+      {% if session.track == "Participatory Game Design" %}
+        <h3 class='participatory-game-design'>{{session.track}}</h3>
+      {% endif %}
+      {% if session.track == "Accessible Game Design" %}
+        <h3 class='accessible-game-design'>{{session.track}}</h3>
+      {% endif %}
+      {% if session.track == "General" %}
+        <h3 class='general'>{{session.track}}</h3>
+      {% endif %}
     </hgroup>
     <ul class="talks">
       {% for talkName in session.talks %}

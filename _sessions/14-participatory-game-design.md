@@ -10,6 +10,8 @@ time: 11&colon;30am - 12&colon;45pm
 timeorder: 3
 room: Rm. 803
 
+track: Participatory Game Design
+
 talks:
   - Intergenerational game design from the participant’s perspective
   - Using participatory video game production to address issues of marginalization with LGBTQIA&#43; youth

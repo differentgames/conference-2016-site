@@ -25,4 +25,7 @@ collections:
   sessions:
     output: true
 
+tracks:
+  Affective Play: affective-play
+  asdf: asdfe
   

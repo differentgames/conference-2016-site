@@ -12,5 +12,6 @@ room: Rm. 805
 
 talks:
   - Metafiction in Videogames
+  - Post-Mortem of Take Care&colon; A Game and Wellness Jam
   - Generating Spaces Outside of Videogame Culture Through Pop-up Arcades
 ---

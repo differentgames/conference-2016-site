@@ -7,8 +7,7 @@ permalink: /schedule#participatory-game-design-workshop
 
 day: Friday
 time: 7&colon;00pm - 7&colon;50pm
-timeorder: 3
-room: Rm. 805
+room: Rm. 845
 
 track: Participatory Game Design
 

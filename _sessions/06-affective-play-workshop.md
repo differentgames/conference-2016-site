@@ -7,8 +7,7 @@ permalink: /schedule#affective-play-workshop
 
 day: Friday
 time: 7&colon;00pm - 7&colon;50pm
-timeorder: 3
-room: Main Space
+room: Rm. 803
 
 track: Affective Play
 

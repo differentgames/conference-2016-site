@@ -6,8 +6,7 @@ title: Game Studies Curriculum Workshop
 permalink: /schedule#game-studies-curriculum-workshop
 
 day: Friday
-time: 8&colon;00pm - 9&colon;00pm
-timeorder: 5
+time: 7&colon;00pm - 7&colon;50pm
 room: Main Space
 
 track: General

@@ -2,7 +2,7 @@
 layout: default
 category: session
 id: race-culture-games-session-1
-title: Race andCulture in Games Session &#35;1
+title: Race and Culture in Games Session &#35;1
 permalink: /schedule#race-culture-games-session-1
 
 day: Saturday

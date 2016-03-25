@@ -8,14 +8,15 @@ permalink: /arcade/
 </p>
 <br>
 
-<section class="arcade" id="arcade">
+<section class="arcade">
   {% for game in site.games %}
-  <div class="game">
-    <a href="{{ game.website | default: game.team_website | default: "#arcade" }}">
+  <div class="game" id="{{ game.id }}">
+    {% capture default_link %}#{{ game.id }}{% endcapture %}
+    <a href="{{ game.website | default: game.team_website | default: default_link }}">
       <strong>{{ game.title }}</strong>
     </a>
     by
-    <a href="{{ game.team_website | default: "#arcade" }}">
+    <a href="{{ game.team_website | default: default_link }}">
       {{ game.presenters }}
     </a>
 

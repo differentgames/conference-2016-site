@@ -1,7 +1,7 @@
 ---
 layout: default
 category: session
-id: race-culture-games-session-2
+anchor: race-culture-games-session-2
 title: Race and Culture in Games Session &#35;2
 permalink: /schedule#race-culture-games-session-2
 

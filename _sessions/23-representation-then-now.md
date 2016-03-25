@@ -1,7 +1,7 @@
 ---
 layout: default
 category: session
-id: representation-then-now
+anchor: representation-then-now
 title: Representation Then &amp; Now
 permalink: /schedule#representation-then-now
 

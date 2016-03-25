@@ -1,7 +1,7 @@
 ---
 layout: default
 category: session
-id: friday-keynote
+anchor: friday-keynote
 title: Keynote
 permalink: /schedule#friday-keynote
 

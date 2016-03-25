@@ -1,7 +1,7 @@
 ---
 layout: default
 category: session
-id: friday-break
+anchor: friday-break
 title: Break
 permalink: /schedule#friday-break
 

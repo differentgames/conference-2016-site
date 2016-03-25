@@ -1,7 +1,7 @@
 ---
 layout: default
 category: session
-id: coffee-break-2
+anchor: coffee-break-2
 title: Coffee Break
 permalink: /schedule#coffee-break-2
 

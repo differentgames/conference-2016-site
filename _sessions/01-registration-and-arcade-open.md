@@ -1,7 +1,7 @@
 ---
 layout: default
 category: session
-id: registration-and-arcade-open
+anchor: registration-and-arcade-open
 title: Registration and Arcade Open
 permalink: /schedule#registration-and-arcade-open
 

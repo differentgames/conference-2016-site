@@ -1,7 +1,7 @@
 ---
 layout: default
 category: talk
-id: glitch-breakage-and-texture-in-interactive-art
+anchor: glitch-breakage-and-texture-in-interactive-art
 permalink: /schedule#glitch-breakage-and-texture-in-interactive-art
 title: Glitch, Breakage, and Texture In Interactive Art
 presenters:

@@ -1,7 +1,7 @@
 ---
 layout: default
 category: talk
-id: gendered-code
+anchor: gendered-code
 permalink: /schedule#gendered-code
 title: Gendered Code
 presenters:

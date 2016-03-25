@@ -1,7 +1,7 @@
 ---
 layout: default
 category: talk
-id: Post-Mortem-Moon-Hunters-and-Matriarchy
+anchor: Post-Mortem-Moon-Hunters-and-Matriarchy
 title: Post-Mortem&colon; Moon Hunters and Matriarchy
 presenters:
   - Tanya X. Short

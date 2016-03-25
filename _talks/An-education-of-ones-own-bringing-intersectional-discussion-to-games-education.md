@@ -1,7 +1,7 @@
 ---
 layout: default
 category: talk
-id: An-education-of-ones-own-bringing-intersectional-discussion-to-games-education
+anchor: An-education-of-ones-own-bringing-intersectional-discussion-to-games-education
 permalink: /schedule#An-education-of-ones-own-bringing-intersectional-discussion-to-games-education
 title: An Education of One's Own&colon; Bringing Intersectional Discussion to Games Education
 presenters:

@@ -1,7 +1,7 @@
 ---
 layout: default
 category: talk
-id: Engaging-with-ideology-Towards-non-Eurocentric-historical-themed-video-games
+anchor: Engaging-with-ideology-Towards-non-Eurocentric-historical-themed-video-games
 permalink: /schedule#Engaging-with-ideology-Towards-non-Eurocentric-historical-themed-video-games
 title: Engaging with ideology&colon; Towards non-Eurocentric historical themed video games
 presenters:

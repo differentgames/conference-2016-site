@@ -1,7 +1,7 @@
 ---
 layout: default
 category: talk
-id: Effects-of-model-minority-stereotype-on-game-play
+anchor: Effects-of-model-minority-stereotype-on-game-play
 permalink: /schedule#Effects-of-model-minority-stereotype-on-game-play
 title: Effects of Model Minority Stereotype on Game Play
 presenters:

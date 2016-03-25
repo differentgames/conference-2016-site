@@ -1,7 +1,7 @@
 ---
 layout: default
 category: talk
-id: Learning-theories-and-participatory-game-design-in-educational-technology
+anchor: Learning-theories-and-participatory-game-design-in-educational-technology
 permalink: /schedule#Learning-theories-and-participatory-game-design-in-educational-technology
 title: Learning Theories and Participatory Game Design in Educational Technology
 presenters:

@@ -1,7 +1,7 @@
 ---
 layout: default
 category: talk
-id: Using-participatory-video-game-production-to-address-issues-of-marginalization-with-LGBTQIA-youth
+anchor: Using-participatory-video-game-production-to-address-issues-of-marginalization-with-LGBTQIA-youth
 permalink: /schedule#Using-participatory-video-game-production-to-address-issues-of-marginalization-with-LGBTQIA-youth
 title: Using participatory video game production to address issues of marginalization with LGBTQIA&#43; youth
 presenters:

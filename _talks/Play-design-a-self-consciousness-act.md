@@ -1,7 +1,7 @@
 ---
 layout: default
 category: talk
-id: Play-design-a-self-consciousness-act
+anchor: Play-design-a-self-consciousness-act
 permalink: /schedule#Play-design-a-self-consciousness-act
 title: Play design&colon; a self-consciousness act
 presenters:

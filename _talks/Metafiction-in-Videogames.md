@@ -1,7 +1,7 @@
 ---
 layout: default
 category: talk
-id: Metafiction-in-Videogames
+anchor: Metafiction-in-Videogames
 title: Metafiction in Videogames
 presenters:
   - James Earl Cox III

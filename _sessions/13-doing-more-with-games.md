@@ -1,7 +1,7 @@
 ---
 layout: default
 category: session
-id: doing-more-with-games
+anchor: doing-more-with-games
 title: Doing More With Games
 permalink: /schedule#doing-more-with-games
 
@@ -14,5 +14,6 @@ track: General
 
 talks:
   - Metafiction in Videogames
+  - Post-Mortem of Take Care&colon; A Game and Wellness Jam
   - Generating Spaces Outside of Videogame Culture Through Pop-up Arcades
 ---

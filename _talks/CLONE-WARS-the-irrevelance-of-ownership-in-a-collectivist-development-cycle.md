@@ -1,7 +1,7 @@
 ---
 layout: default
 category: talk
-id: CLONE-WARS-the-irrevelance-of-ownership-in-a-collectivist-development-cycle
+anchor: CLONE-WARS-the-irrevelance-of-ownership-in-a-collectivist-development-cycle
 permalink: /schedule#CLONE-WARS-the-irrevelance-of-ownership-in-a-collectivist-development-cycle
 title: CLONE WARS&colon; The irrelevance of ownership in a collectivist development cycle
 presenters:

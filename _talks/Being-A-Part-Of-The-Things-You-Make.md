@@ -1,7 +1,7 @@
 ---
 layout: default
 category: talk
-id: Being-A-Part-Of-The-Things-You-Make
+anchor: Being-A-Part-Of-The-Things-You-Make
 permalink: /schedule#Being-A-Part-Of-The-Things-You-Make
 title: Being A Part Of The Things You Make
 presenters:

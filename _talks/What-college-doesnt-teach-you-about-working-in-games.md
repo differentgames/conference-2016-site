@@ -1,7 +1,7 @@
 ---
 layout: default
 category: talk
-id: What-college-doesnt-teach-you-about-working-in-games
+anchor: What-college-doesnt-teach-you-about-working-in-games
 permalink: /schedule#What-college-doesnt-teach-you-about-working-in-games
 title: What College Doesn't Teach You About Working in Games
 presenters:

@@ -1,7 +1,7 @@
 ---
 layout: default
 category: session
-id: game-studies-curriculum-workshop
+anchor: game-studies-curriculum-workshop
 title: Game Studies Curriculum Workshop
 permalink: /schedule#game-studies-curriculum-workshop
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 category: talk
-id: Metatuning-accessibility-how-high-life-redefined-collaborative-design
+anchor: Metatuning-accessibility-how-high-life-redefined-collaborative-design
 permalink: /schedule#Metatuning-accessibility-how-high-life-redefined-collaborative-design
 title: Metatuning Accessibility&colon; How High Life&#33; Redefined Collaborative Design
 presenters:

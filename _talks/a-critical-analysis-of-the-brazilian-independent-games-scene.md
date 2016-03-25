@@ -1,7 +1,7 @@
 ---
 layout: default
 category: talk
-id: a-critical-analysis-of-the-brazilian-independent-games-scene
+anchor: a-critical-analysis-of-the-brazilian-independent-games-scene
 permalink: /schedule#a-critical-analysis-of-the-brazilian-independent-games-scene
 title: A critical analysis of the Brazilian independent games scene
 presenters:

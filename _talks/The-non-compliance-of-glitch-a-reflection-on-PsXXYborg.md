@@ -1,7 +1,7 @@
 ---
 layout: default
 category: talk
-id: The-non-compliance-of-glitch-a-reflection-on-PsXXYborg
+anchor: The-non-compliance-of-glitch-a-reflection-on-PsXXYborg
 permalink: /schedule#The-non-compliance-of-glitch-a-reflection-on-PsXXYborg
 title: The Non-Compliance of Glitch&colon; A Reflection on PsXXYborg
 presenters:

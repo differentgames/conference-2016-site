@@ -1,7 +1,7 @@
 ---
 layout: default
 category: session
-id: affective-play-workshop
+anchor: affective-play-workshop
 title: Affective Play Workshop
 permalink: /schedule#affective-play-workshop
 

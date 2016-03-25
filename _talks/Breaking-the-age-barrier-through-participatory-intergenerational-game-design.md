@@ -1,12 +1,14 @@
 ---
 layout: default
 category: talk
-id: Breaking-the-age-barrier-through-participatory-intergenerational-game-design
+anchor: Breaking-the-age-barrier-through-participatory-intergenerational-game-design
 permalink: /schedule#Breaking-the-age-barrier-through-participatory-intergenerational-game-design
 title: Breaking the age barrier through participatory intergenerational game design
 presenters:
   - Bob De Schutter
   - Margarida Romero
+  - Jean-Nicolas Proulx
+  - Giuliana Cucinelli
 track: Participatory Game Design
 session: Participatory Game Design
 day: Saturday

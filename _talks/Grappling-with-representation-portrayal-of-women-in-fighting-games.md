@@ -1,7 +1,7 @@
 ---
 layout: default
 category: talk
-id: Grappling-with-representation-portrayal-of-women-in-fighting-games
+anchor: Grappling-with-representation-portrayal-of-women-in-fighting-games
 permalink: /schedule#Grappling-with-representation-portrayal-of-women-in-fighting-games
 title: Grappling with Representation&colon; portrayal of women in fighting games
 presenters:

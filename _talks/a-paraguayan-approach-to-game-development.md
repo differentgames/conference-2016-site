@@ -1,7 +1,7 @@
 ---
 layout: default
 category: talk
-id: a-paraguayan-approach-to-game-development
+anchor: a-paraguayan-approach-to-game-development
 permalink: /schedule#a-paraguayan-approach-to-game-development
 title: A Paraguayan Approach to Game Development
 presenters:

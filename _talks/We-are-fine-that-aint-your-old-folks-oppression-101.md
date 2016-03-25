@@ -1,7 +1,7 @@
 ---
 layout: default
 category: talk
-id: We-are-fine-that-aint-your-old-folks-oppression-101
+anchor: We-are-fine-that-aint-your-old-folks-oppression-101
 permalink: /schedule#We-are-fine-that-aint-your-old-folks-oppression-101
 title: We Are Fine&colon; That Ain't Your Old Folks Oppression 101
 presenters:

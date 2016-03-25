@@ -1,16 +1,18 @@
 ---
 layout: default
 category: talk
-id: Learning-theories-and-participatory-game-design-in-educational-technology
+anchor: Learning-theories-and-participatory-game-design-in-educational-technology
 permalink: /schedule#Learning-theories-and-participatory-game-design-in-educational-technology
 title: Learning Theories and Participatory Game Design in Educational Technology
 presenters:
   - Giuliana Cucinelli
-  - Katie Nicol
   - Junesse Christianns
-  - Dominique Robertson
+  - Narinee Halajian
   - Roza Jeladyan
-  - Muriam Bernier
+  - Gabriela Kostova
+  - Myriam Lebel-Bernier
+  - Katie Nicol
+  - Dominique Robertson
 track: Participatory Game Design
 session: Participatory Game Design Workshop
 day: Friday

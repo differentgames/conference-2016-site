@@ -1,7 +1,7 @@
 ---
 layout: default
 category: talk
-id: being-there-presence-and-propaganda-in-historical-virtual-reality-experiences
+anchor: being-there-presence-and-propaganda-in-historical-virtual-reality-experiences
 permalink: /schedule#being-there-presence-and-propaganda-in-historical-virtual-reality-experiences
 title: Being There&colon; Presence and Propaganda in Historical Virtual Reality Experiences
 presenters:

@@ -1,7 +1,7 @@
 ---
 layout: default
 category: talk
-id: a-perfectly-normal-panel-about-awkwardness-in-games
+anchor: a-perfectly-normal-panel-about-awkwardness-in-games
 permalink: /schedule#a-perfectly-normal-panel-about-awkwardness-in-games
 title: A Perfectly Normal Panel About Awkwardness in Games
 presenters:

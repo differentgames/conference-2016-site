@@ -5,5 +5,6 @@ title: Consume Me
 presenters: Jenny Jiao Hisa
 website: http://playconsume.me/
 images: http://qdork.com/post/135452820895/consume-me-is-a-personal-game-about-literally
+team_website: http://qdork.com/
 ---
 Consume Me is a personal game about literally balancing my diet and how that affected my relationship with food and my body. 

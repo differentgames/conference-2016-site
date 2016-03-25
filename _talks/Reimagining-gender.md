@@ -1,7 +1,7 @@
 ---
 layout: default
 category: talk
-id: Reimagining-gender
+anchor: Reimagining-gender
 permalink: /schedule#Reimagining-gender
 title: Reimagining Gender
 presenters:

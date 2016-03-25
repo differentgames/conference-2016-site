@@ -1,7 +1,7 @@
 ---
 layout: default
 category: talk
-id: Generating-Spaces-Outside-of-Videogame-Culture-Through-Pop-up-Arcades
+anchor: Generating-Spaces-Outside-of-Videogame-Culture-Through-Pop-up-Arcades
 title: Generating Spaces Outside of Videogame Culture Through Pop-up Arcades
 presenters:
   - Amanda Wong

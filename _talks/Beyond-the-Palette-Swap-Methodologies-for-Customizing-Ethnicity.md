@@ -1,7 +1,7 @@
 ---
 layout: default
 category: talk
-id: Beyond-the-Palette-Swap-Methodologies-for-Customizing-Ethnicity
+anchor: Beyond-the-Palette-Swap-Methodologies-for-Customizing-Ethnicity
 title: Beyond the Palette Swap&colon; Methodologies for Customizing Ethnicity
 presenters:
   - Kevin Chen

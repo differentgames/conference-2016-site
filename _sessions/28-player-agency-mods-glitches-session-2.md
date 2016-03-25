@@ -1,7 +1,7 @@
 ---
 layout: default
 category: session
-id: player-agency-mods-glitches-session-2
+anchor: player-agency-mods-glitches-session-2
 title: Player Agency, Mods, & Glitches Session &#35;2
 permalink: /schedule#player-agency-mods-glitches-session-2
 

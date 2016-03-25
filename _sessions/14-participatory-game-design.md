@@ -1,7 +1,7 @@
 ---
 layout: default
 category: session
-id: participatory-game-design
+anchor: participatory-game-design
 title: Participatory Game Design
 permalink: /schedule#participatory-game-design
 

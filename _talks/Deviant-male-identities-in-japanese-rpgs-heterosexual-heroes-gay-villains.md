@@ -1,7 +1,7 @@
 ---
 layout: default
 category: talk
-id: Deviant-male-identities-in-japanese-rpgs-heterosexual-heroes-gay-villains
+anchor: Deviant-male-identities-in-japanese-rpgs-heterosexual-heroes-gay-villains
 permalink: /schedule#Deviant-male-identities-in-japanese-rpgs-heterosexual-heroes-gay-villains
 title: Deviant Male Identities in Japanese RPGs&colon; Heterosexual Heroes, Gay Villains
 presenters:

@@ -1,7 +1,7 @@
 ---
 layout: default
 category: talk
-id: Making-queer-games-history-the-assessment-of-lgbtq-game-content
+anchor: Making-queer-games-history-the-assessment-of-lgbtq-game-content
 permalink: /schedule#Making-queer-games-history-the-assessment-of-lgbtq-game-content
 title: Making Queer Games History&colon; The assessment of LGBTQ game content
 presenters:

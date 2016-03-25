@@ -1,7 +1,7 @@
 ---
 layout: default
 category: talk
-id: The-possibilities-and-perils-of-being-femme-in-games
+anchor: The-possibilities-and-perils-of-being-femme-in-games
 permalink: /schedule#The-possibilities-and-perils-of-being-femme-in-games
 title: The Possibilities and Perils of Being Femme in Games
 presenters:

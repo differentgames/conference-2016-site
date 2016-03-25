@@ -1,7 +1,7 @@
 ---
 layout: default
 category: session
-id: video-games-in-latin-america
+anchor: video-games-in-latin-america
 title: Video Games in Latin America
 permalink: /schedule#video-games-in-latin-america
 

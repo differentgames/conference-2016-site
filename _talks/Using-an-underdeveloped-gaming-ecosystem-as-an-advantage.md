@@ -1,7 +1,7 @@
 ---
 layout: default
 category: talk
-id: Using-an-underdeveloped-gaming-ecosystem-as-an-advantage
+anchor: Using-an-underdeveloped-gaming-ecosystem-as-an-advantage
 permalink: /schedule#Using-an-underdeveloped-gaming-ecosystem-as-an-advantage
 title: Using an underdeveloped gaming ecosystem as an advantage
 presenters:

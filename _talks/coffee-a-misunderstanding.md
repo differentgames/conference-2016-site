@@ -1,7 +1,7 @@
 ---
 layout: default
 category: talk
-id: coffee-a-misunderstanding
+anchor: coffee-a-misunderstanding
 permalink: /schedule#coffee-a-misunderstanding
 title: Coffee&colon; A Misunderstanding
 presenters:

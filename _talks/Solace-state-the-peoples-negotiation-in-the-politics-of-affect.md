@@ -1,7 +1,7 @@
 ---
 layout: default
 category: talk
-id: Solace-state-the-peoples-negotiation-in-the-politics-of-affect
+anchor: Solace-state-the-peoples-negotiation-in-the-politics-of-affect
 permalink: /schedule#Solace-state-the-peoples-negotiation-in-the-politics-of-affect
 title: Solace State&colon; The People's Negotiation in the Politics of Affect
 presenters:

@@ -1,7 +1,7 @@
 ---
 layout: default
 category: session
-id: registration
+anchor: registration
 title: Registration
 permalink: /schedule#registration
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 category: session
-id: race-culture-games-workshop
+anchor: race-culture-games-workshop
 title: Race and Culture in Games Workshop
 permalink: /schedule#race-culture-games-workshop
 

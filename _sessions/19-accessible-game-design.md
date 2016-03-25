@@ -1,7 +1,7 @@
 ---
 layout: default
 category: session
-id: accessible-game-design
+anchor: accessible-game-design
 title: Accessible Game Design
 permalink: /schedule#accessible-game-design
 

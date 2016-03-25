@@ -1,7 +1,7 @@
 ---
 layout: default
 category: session
-id: lunch
+anchor: lunch
 title: Lunch
 permalink: /schedule#lunch
 

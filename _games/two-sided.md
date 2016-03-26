@@ -4,7 +4,10 @@ permalink: /arcade#two-sided
 title: TWO SIDED
 presenters: Annamaria Andrea Vitali
 website: http://annamariandrea.itch.io/two-sided
-images: https://www.dropbox.com/sh/0t907m1yyd7x6z6/AACht3iH3Gr4MUbGqfV7kWeoa?dl=0
+images:
+  - /images/games/two-sided-1.png
+  - /images/games/two-sided-2.png
+  - /images/games/two-sided-3.png
 team_website: http://andreavitalidesign.it
 ---
 TWO SIDED is a game inspired to Milan Kundera’s novel “The Hitchhiking game”.

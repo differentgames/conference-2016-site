@@ -4,7 +4,9 @@ permalink: /arcade#sext-machine
 title: Sext Machine
 presenters: Mike Lazer-Walker
 website: http://lazerwalker.com/sextmachine.html
-images: http://lazerwalker.com/images/sextmachine.png (SMS version),  http://i.imgur.com/Y0Zy6eQ.png (web version)
+images:
+  - /images/games/sext-1.png
+  - /images/games/sext-2.png
 team_website: http://lazerwalker.com
 ---
 The Sext Machine loves to sext. Specifically, it loves getting dirty pictures. But it's not so great at figuring out what is and isn't dirty...

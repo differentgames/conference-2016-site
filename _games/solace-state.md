@@ -1,6 +1,5 @@
 ---
-layout: default
-permalink: /arcade#solace-state
+layout: game
 title: Solace State
 presenters: Tanya Kan
 website: http://www.solacestategame.com

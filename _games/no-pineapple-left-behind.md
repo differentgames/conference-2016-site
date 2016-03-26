@@ -1,6 +1,5 @@
 ---
-layout: default
-permalink: /arcade#no-pineapple-left-behind
+layout: game
 title: No Pineapple Left Behind
 presenters: Subaltern Games
 website: http://subalterngames.com

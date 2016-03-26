@@ -1,6 +1,5 @@
 ---
-layout: default
-permalink: /arcade#sofdu-litla-tofan-min-a-lullaby
+layout: game
 title: Sofðu litla tófan mín&colon; A Lullaby
 presenters: Niamh Schönherr
 website:

@@ -1,6 +1,5 @@
 ---
-layout: default
-permalink: /arcade#emotionshop-museum
+layout: game
 title: Emotionshop Museum
 presenters: Emotionshop
 website: http://www.etc.cmu.edu/projects/emotionshop/

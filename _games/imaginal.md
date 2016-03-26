@@ -1,6 +1,5 @@
 ---
-layout: default
-permalink: /arcade#imaginal
+layout: game
 title: Imaginal
 presenters: Lisa Brown
 website: http://wertle.itch.io/imaginal

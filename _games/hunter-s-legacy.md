@@ -1,6 +1,5 @@
 ---
-layout: default
-permalink: /arcade#hunter-s-legacy
+layout: game
 title: Hunter's Legacy
 presenters: Lienzo Mexico
 website: http://www.lienzo.mx/hunterslegacy/

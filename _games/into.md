@@ -1,6 +1,5 @@
 ---
-layout: default
-permalink: /arcade#into
+layout: game
 title: Into
 presenters: Animal Phase (Charles Taylor Elwonger, Sound & Music by Jocelyn Reyes)
 website: http://animalphase.com/into/

@@ -1,6 +1,5 @@
 ---
-layout: default
-permalink: /arcade#the-spark-of-one
+layout: game
 title: The Spark Of One
 presenters: Prince Jones
 website: http://thesparkofone.com

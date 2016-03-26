@@ -1,6 +1,5 @@
 ---
-layout: default
-permalink: /arcade#two-sided
+layout: game
 title: TWO SIDED
 presenters: Annamaria Andrea Vitali
 website: http://annamariandrea.itch.io/two-sided

@@ -1,6 +1,5 @@
 ---
-layout: default
-permalink: /arcade#you-might-turn-into-a-kitten
+layout: game
 title: You Might Turn Into A Kitten
 presenters: Lisa Walkosz-Migliacio
 website: http://evilisa.itch.io/ymtiak

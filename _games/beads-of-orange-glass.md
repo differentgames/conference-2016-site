@@ -1,6 +1,5 @@
 ---
-layout: default
-permalink: /arcade#beads-of-orange-glass
+layout: game
 title: beads of orange glass
 presenters: loren schmidt
 images:

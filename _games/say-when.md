@@ -1,11 +1,10 @@
 ---
-layout: default
-permalink: /arcade#say-when
+layout: game
 title: Say When
 presenters: Kaitlin Tremblay
 website: http://kait_zilla.itch.io/say-when
 images:
-  - /images/games/say-when-1.png
+  - /images/games/say-when-1.jpg
   - /images/games/say-when-2.png
   - /images/games/say-when-3.png
 team_website: http://www.thatmonstergames.com

@@ -1,6 +1,5 @@
 ---
-layout: default
-permalink: /arcade#revolution-the-game-of-social-upheaval
+layout: game
 title: Revolution!&colon; the Game of Social Upheaval
 presenters: Chris Gaetano
 website: https://www.facebook.com/revolutionthegame/

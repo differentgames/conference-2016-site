@@ -1,6 +1,5 @@
 ---
-layout: default
-permalink: /arcade#you-don-t-know-the-half-of-it-fins-of-the-father
+layout: game
 title: You Don't Know the Half of It&colon; Fins of the Father
 presenters: James Earl Cox III, Joe Cox
 website: http://just404it.itch.io/you-dont-know-the-half-of-it-fins-of-the-father

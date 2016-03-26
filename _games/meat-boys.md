@@ -1,6 +1,5 @@
 ---
-layout: default
-permalink: /arcade#meat-boys
+layout: game
 title: Meat Boys
 presenters: Mikei Huang
 website: http://mikeihuang.github.io/meatboys/

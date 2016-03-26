@@ -1,6 +1,5 @@
 ---
-layout: default
-permalink: /arcade#downstream
+layout: game
 title: Downstream
 presenters: TM Duplantis
 website: http://deltagardner.itch.io/downstream

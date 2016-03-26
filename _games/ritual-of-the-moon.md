@@ -1,6 +1,5 @@
 ---
-layout: default
-permalink: /arcade#ritual-of-the-moon
+layout: game
 title: Ritual of the Moon
 presenters: Kara Stone
 website: http://karastonesite.com/2015/11/12/ritual-of-the-moon-2/

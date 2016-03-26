@@ -1,6 +1,5 @@
 ---
-layout: default
-permalink: /arcade#in-a-haystack
+layout: game
 title: In a Haystack
 presenters: Jezz Lucena
 website: http://www.haystackgame.com

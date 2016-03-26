@@ -1,6 +1,5 @@
 ---
-layout: default
-permalink: /arcade#ebee
+layout: game
 title: eBee
 presenters: Pins & Needles - Northeastern University
 website: http://www.ebeeproject.net

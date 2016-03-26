@@ -1,6 +1,5 @@
 ---
-layout: default
-permalink: /arcade#clitar
+layout: game
 title: CLITar
 presenters: Paidia Studios + CLITlab/UCLA Game Lab
 website: http://paidiastudios.com/main/?page_id=47

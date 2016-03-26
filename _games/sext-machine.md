@@ -1,6 +1,5 @@
 ---
-layout: default
-permalink: /arcade#sext-machine
+layout: game
 title: Sext Machine
 presenters: Mike Lazer-Walker
 website: http://lazerwalker.com/sextmachine.html

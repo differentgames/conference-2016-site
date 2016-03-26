@@ -1,6 +1,5 @@
 ---
-layout: default
-permalink: /arcade#snail-tales
+layout: game
 title: Snail Tales
 presenters: Sam Potasznik
 images:

@@ -1,6 +1,5 @@
 ---
-layout: default
-permalink: /arcade#fun-fun-fun
+layout: game
 title: FUN FUN FUN
 presenters: Hannah Epstein AKA hanski
 website: http://hanski.itch.io/fun-fun-fun

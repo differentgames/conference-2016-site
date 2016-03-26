@@ -1,6 +1,5 @@
 ---
-layout: default
-permalink: /arcade#guard-labour
+layout: game
 title: Guard Labour
 presenters: Joachim Despland
 images:

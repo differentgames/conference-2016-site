@@ -1,6 +1,5 @@
 ---
-layout: default
-permalink: /arcade#dominique-pamplemousse-and-dominique-pamplemousse-in-combinatorial-explosion
+layout: game
 title: Dominique Pamplemousse and Dominique Pamplemousse in&colon; "Combinatorial Explosion!"
 presenters: Dietrich Squinkifer
 website:

@@ -1,6 +1,5 @@
 ---
-layout: default
-permalink: /arcade#consume-me
+layout: game
 title: Consume Me
 presenters: Jenny Jiao Hisa
 website: http://playconsume.me/

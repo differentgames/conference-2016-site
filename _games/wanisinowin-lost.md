@@ -1,6 +1,5 @@
 ---
-layout: default
-permalink: /arcade#wanisinowin-lost
+layout: game
 title: Wanisinowin | Lost
 presenters: Meagan Byrne
 website: http://gamejolt.com/games/wanisinowin-lost/97597

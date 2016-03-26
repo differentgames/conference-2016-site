@@ -1,6 +1,5 @@
 ---
-layout: default
-permalink: /arcade#soteria-dreams-as-currency
+layout: game
 title: Soteria – Dreams as Currency
 presenters: Doris C. Rusch, DePaul University, Play 4 Change lab
 website: http://playforchange.cdm.depaul.edu/projects/soteria/

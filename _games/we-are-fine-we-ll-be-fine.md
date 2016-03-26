@@ -1,6 +1,5 @@
 ---
-layout: default
-permalink: /arcade#we-are-fine-we-ll-be-fine
+layout: game
 title: We Are Fine, We’ll Be Fine
 presenters: Team Sagittarius
 website: http://wearefine.ca

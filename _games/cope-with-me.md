@@ -1,6 +1,5 @@
 ---
-layout: default
-permalink: /arcade#cope-with-me
+layout: game
 title: Cope With Me
 presenters: Indira Ardolic
 website: http://sites.bxmc.poly.edu/~indiraardolic/cope-with-me/hud/

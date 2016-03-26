@@ -1,6 +1,5 @@
 ---
-layout: default
-permalink: /arcade#linelight
+layout: game
 title: Linelight
 presenters: Brett Taylor Interactive, LLC
 website: http://linelightgame.com

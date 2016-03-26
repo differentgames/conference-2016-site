@@ -1,6 +1,5 @@
 ---
-layout: default
-permalink: /arcade#not-crazy
+layout: game
 title: Not Crazy
 presenters: Elliot Pines
 website:

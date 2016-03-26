@@ -1,6 +1,5 @@
 ---
-layout: default
-permalink: /arcade#la-petite-mort
+layout: game
 title: La Petite Mort
 presenters: The Lovable Hat Cult
 website: http://lovablehatcult.dk/petite.html

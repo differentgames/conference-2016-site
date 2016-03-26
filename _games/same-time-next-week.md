@@ -1,6 +1,5 @@
 ---
-layout: default
-permalink: /arcade#same-time-next-week
+layout: game
 title: Same Time, Next Week
 presenters: Jennifer Allaway and Allison Cole
 website: http://www.allisonkcole.com/#/sametimenextweek/

@@ -1,6 +1,5 @@
 ---
-layout: default
-permalink: /arcade#orchids-to-dusk
+layout: game
 title: Orchids to Dusk
 presenters: Pol Clarissou
 website: http://www.ko-opmode.com/orchids

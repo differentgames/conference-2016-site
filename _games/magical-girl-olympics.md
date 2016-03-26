@@ -1,6 +1,5 @@
 ---
-layout: default
-permalink: /arcade#magical-girl-olympics
+layout: game
 title: Magical Girl Olympics
 presenters: Tweed Couch Games
 website:

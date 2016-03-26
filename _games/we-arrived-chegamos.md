@@ -1,6 +1,5 @@
 ---
-layout: default
-permalink: /arcade#we-arrived-chegamos
+layout: game
 title: We Arrived // Chegamos
 presenters: Alexandra Teixeira Riggs
 website: http://www.ariggs.net/projects/we_arrived/

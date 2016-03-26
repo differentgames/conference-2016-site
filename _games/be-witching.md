@@ -1,6 +1,5 @@
 ---
-layout: default
-permalink: /arcade#be-witching
+layout: game
 title: Be Witching
 presenters: Sorry Not Sorry Games
 website: http://w.itch.io/be-witching

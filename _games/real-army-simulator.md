@@ -1,6 +1,5 @@
 ---
-layout: default
-permalink: /arcade#real-army-simulator
+layout: game
 title: Real Army Simulator
 presenters: The Really Serious Game Company
 website: http://realarmysimulator.com/

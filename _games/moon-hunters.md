@@ -1,6 +1,5 @@
 ---
-layout: default
-permalink: /arcade#moon-hunters
+layout: game
 title: Moon Hunters
 presenters: Kitfox Games
 website: http://www.moonhuntersgame.com

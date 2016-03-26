@@ -1,6 +1,5 @@
 ---
-layout: default
-permalink: /arcade#slam-city-oracles
+layout: game
 title: Slam City Oracles
 presenters: Team SCO
 website: http://slamcityoracles.com

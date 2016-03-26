@@ -1,6 +1,5 @@
 ---
-layout: default
-permalink: /arcade#cunt-touch-this
+layout: game
 title: Cunt Touch This
 presenters: The Copenhagen Game Collective
 website: http://www.copenhagengamecollective.org/

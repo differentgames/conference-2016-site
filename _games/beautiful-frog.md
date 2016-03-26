@@ -1,6 +1,5 @@
 ---
-layout: default
-permalink: /arcade#beautiful-frog
+layout: game
 title: Beautiful Frog
 presenters: Porpentine
 website: http://slimedaughter.com/games/twine/frog/

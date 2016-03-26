@@ -11,6 +11,12 @@ permalink: /arcade/
 <section class="arcade">
   {% for game in site.games %}
   <div class="game" id="{{ game.id }}">
+    <a href="#{{ game.id }}" title="permalink">
+      <small>
+        <i class="text-muted glyphicon glyphicon-link"></i>
+      </small>
+    </a>
+
     {% capture default_link %}#{{ game.id }}{% endcapture %}
     <a href="{{ game.website | default: game.team_website | default: default_link }}">
       <strong>{{ game.title }}</strong>

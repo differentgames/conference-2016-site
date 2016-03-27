@@ -14,9 +14,10 @@ layout: default
 
     {% if page.images %}
     <div class="row">
+    {% capture colsize %}{{ 12 | divided_by: page.images.size }}{% endcapture %}
     {% for image in page.images %}
       <a href="{{ image }}">
-        <img class="image-responsive col-xs-4" src="{{ image }}" alt="Screenshot">
+        <img class="image-responsive col-xs-{{ colsize }}" src="{{ image }}" alt="Screenshot">
       </a>
     {% endfor %}
     </div>

@@ -1,9 +1,11 @@
 ---
-layout: default
-permalink: /arcade#snail-tales
+layout: game
 title: Snail Tales
 presenters: Sam Potasznik
-images: https://www.dropbox.com/s/qkycz7rexj 6cspf/Trail.gif?dl=0 https://www.dropbox.com/s/7y1piqqq1veo79s/pushBegin.gif?dl=0 https://www.dropbox.com/s/6sqouqfhpbkno3r/counting2.gif?dl=0
+images:
+  - /images/games/snail-1.gif
+  - /images/games/snail-2.gif
+  - /images/games/snail-3.gif
 team_website: http://sampotasz.com
 ---
 For four years, chronic pain has been a part of my and my partner's life. With chronic pain, not pushing to do too much too fast is essential. Snails are a great embodiment of this ethos, and thus became an important symbol for our relationship.

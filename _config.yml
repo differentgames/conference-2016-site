@@ -25,4 +25,5 @@ collections:
   sessions:
     output: true
   games:
-
+    output: true
+    permalink: /arcade/:path/

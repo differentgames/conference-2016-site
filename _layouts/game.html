@@ -1,0 +1,44 @@
+---
+layout: default
+---
+<div class="game">
+  <header class="post-header">
+    <h1 class="post-title text-center">
+      {{ page.title }}
+      <small>by {{ page.presenters }}</small>
+    </h1>
+  </header>
+
+  <article class="post-content">
+    {{ content }}
+
+    {% if page.images %}
+    <div class="row">
+    {% for image in page.images %}
+      <a href="{{ image }}">
+        <img class="image-responsive col-xs-4" src="{{ image }}" alt="Screenshot">
+      </a>
+    {% endfor %}
+    </div>
+    <br>
+    {% endif %}
+
+    {% if page.website or page.team_website %}
+      <h2>Additional resources</h2>
+    {% endif %}
+
+    {% if page.website %}
+      <p>
+        <a href="{{ page.website }}">{{ page.title }}</a>
+      </p>
+    {% endif %}
+
+    {% if page.team_website %}
+      <p>
+        <a href="{{ page.team_website }}">{{ page.presenters }}</a>
+      </p>
+    {% endif %}
+
+  </article>
+
+</div>

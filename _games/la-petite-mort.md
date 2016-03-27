@@ -5,7 +5,7 @@ presenters: The Lovable Hat Cult
 website: http://lovablehatcult.dk/petite.html
 images:
   - /images/games/petite-1.png
-  - /images/games/petite-2.gif
+  - /images/games/petite-2.png
   - /images/games/petite-3.gif
 team_website: http://lovablehatcult.dk
 ---

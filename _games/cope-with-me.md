@@ -8,7 +8,7 @@ images:
   - /images/games/cope-with-me-2.png
   - /images/games/cope-with-me-3.png
 team_website: http://indirawrs.tumblr.com
-twitter: "@_r_elm"
+twitter:
 bio: Indira is a cool person with a cool dog who makes art and games with feelings.
 team_images:
   - /images/games/cope-with-me-author.jpg

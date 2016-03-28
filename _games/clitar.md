@@ -8,7 +8,7 @@ images:
   - /images/games/clitar-2.jpg
   - /images/games/clitar-3.jpg
 team_website: http://www.paidiastudios.com
-twitter: "@padiastudios"
+twitter: "@paidiastudios"
 bio: |
   The CLITar was produced in the summer of 2015 by Celia Pearce in collaboration CLITlab as part of an artist’s residency at the UCLA Game Lab. The CLITlab (Collaboration for Liberation in Technology) is a student-based feminist hacking group founded by MFA student hsinyu lin. The idea for the CLITar began with with a seed of an idea&colon; Given the masculinist character of both rock and roll guitars and guitar game controllers, what would happen if we tried to design an explicitly feminist guitar controller? The aim of the project was to create a collaborative art piece while teaching ourselves Arduino and textile crafts. The CLITar is the result of this joint effort.
 

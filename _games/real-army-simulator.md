@@ -8,7 +8,7 @@ images:
    - /images/games/real-army-2.png
    - /images/games/real-army-3.png
 team_website: http://thereallyseriousgamecompany.com
-twitter: "@TSRGcompany"
+twitter: "@TRSGcompany"
 bio: |
   The Really Serious Game Company is the very serious game company founded by Yifat Shaik & Derek Quenneville
 

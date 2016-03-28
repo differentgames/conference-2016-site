@@ -3,11 +3,6 @@ layout: page
 title: Arcade
 permalink: /arcade/
 ---
-<p class="text-center">
-  <img src="/images/construction.gif" alt="still working"> Under construction - keep checking here for updates! <img src="/images/construction.gif" alt="come back soon">
-</p>
-<br>
-
 <section class="arcade">
   {% for game in site.games %}
 

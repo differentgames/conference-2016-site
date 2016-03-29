@@ -14,5 +14,4 @@ track: General
 
 talks:
   - Making Queer Games History&colon; The assessment of LGBTQ game content
-  - Grappling with Representation&colon; portrayal of women in fighting games
 ---

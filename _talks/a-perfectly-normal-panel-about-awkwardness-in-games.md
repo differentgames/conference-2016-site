@@ -8,7 +8,6 @@ presenters:
   - Allison Kyran Cole
   - Jessica Rose Marcotte
   - Dietrich Squinkifer
-  - Ida Marie Toft
 track: Affective Play
 session: Affective PLay Session &#35;4
 day: Saturday

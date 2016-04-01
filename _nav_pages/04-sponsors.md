@@ -11,7 +11,7 @@ permalink: /sponsors/
   {% for sponsor in site.sponsors %}
   <div class="row sponsor">
     <a href="{{ sponsor.website }}">
-      <img class="img-responsive col-md-6 col-md-offset-3" src="{{ sponsor.image }}" />
+      <img class="img-responsive col-md-6 col-md-offset-3" alt="{{ sponsor.name}}" src="{{ sponsor.image }}" />
     </a>
   </div>
   {% endfor %}

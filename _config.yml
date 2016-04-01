@@ -27,3 +27,4 @@ collections:
   games:
     output: true
     permalink: /arcade/:path/
+  sponsors:

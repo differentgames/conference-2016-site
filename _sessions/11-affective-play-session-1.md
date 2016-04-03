@@ -14,5 +14,5 @@ track: Affective Play
 
 talks:
   - Play design&colon; a self-consciousness act
-  - Being A Part Of The Things You Make
+  - Post-Mortem of Take Care&colon; A Game and Wellness Jam
 ---

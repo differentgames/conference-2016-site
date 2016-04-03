@@ -5,6 +5,7 @@ anchor: Post-Mortem-of-Take-Care-A-Game-and-Wellness-Jam
 title: Post-Mortem of Take Care&colon; A Game and Wellness Jam
 presenters:
   - Stephanie Fisher
+  - Kara Stone
 track: 
 session: Doing More With Games
 day: Saturday

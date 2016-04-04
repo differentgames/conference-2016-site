@@ -2,7 +2,7 @@
 layout: game
 title: Cope With Me
 presenters: Indira Ardolic
-website: http://sites.bxmc.poly.edu/~indiraardolic/cope-with-me/hud/
+website:
 images:
   - /images/games/cope-with-me-1.png
   - /images/games/cope-with-me-2.png

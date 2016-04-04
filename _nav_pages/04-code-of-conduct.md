@@ -42,7 +42,7 @@ If you see people behaving inappropriately, please bring it to the attention of 
 
 ## Contact
 
-During the 2016 Different Games Conference, the entire Different Games staff and volunteer staff will respond to any inquiries about safety, security, and the Code of Conduct. For more specific communication, **the 2016 Different Games Conference points of contact for safety and security reports are Mattie Brice, Mike DeAnda, and [Dee Dannielle](https://twitter.com/dirosaur).**
+During the 2016 Different Games Conference, the entire Different Games staff and volunteer staff will respond to any inquiries about safety, security, and the Code of Conduct. For more specific communication, **the 2016 Different Games Conference points of contact for safety and security reports are Mattie Brice, Michael DeAnda, and [Dee Dannielle](https://twitter.com/dirosaur).**
 
 Different Games actively opposes all forms of harassment and hate speech. If you experience any marginalizing or silencing behavior which limits your full participation please find the welcoming table by the elevators in the lobby or find a Different Games staff member. 
 

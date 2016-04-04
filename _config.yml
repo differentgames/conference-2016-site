@@ -23,7 +23,6 @@ collections:
   nav_pages:
     output: true
   sessions:
-    output: true
   games:
     output: true
     permalink: /arcade/:path/

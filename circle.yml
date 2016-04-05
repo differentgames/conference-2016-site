@@ -5,7 +5,7 @@ checkout:
 
 test:
   override:
-    - bundle exec jekyll build && bundle exec htmlproof _site
+    - bundle exec jekyll build && bundle exec htmlproof --only-4xx _site
 machine:
   ruby:
     version: 2.1.1

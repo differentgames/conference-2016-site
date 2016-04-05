@@ -1,0 +1,80 @@
+---
+layout: default
+---
+<div class="game">
+  <header class="post-header">
+    <h1 class="post-title">
+      {{ page.title }}
+      <small>presented by {{ page.presenters | array_to_sentence_string }}</small>
+    </h1>
+    {% assign talk_session = site.sessions | where: "talks", page.title | first %}
+    <p class="text-muted">Part of <a href="{{ talk_session.permalink }}">{{ talk_session.title }}</a></p>
+  </header>
+
+  <article class="post-content">
+    {{ content }}
+
+    {% if page.images %}
+    <div class="row">
+    {% capture colsize %}{{ 12 | divided_by: page.images.size }}{% endcapture %}
+    {% for image in page.images %}
+      <a href="{{ image }}">
+        <img class="image-responsive col-xs-{{ colsize }}" src="{{ image }}" alt="Screenshot">
+      </a>
+    {% endfor %}
+    </div>
+    {% endif %}
+
+    {% if page.bios or page.pictures %}
+      <br>
+      <h2>About the author(s)</h2>
+      {% assign images_width = page.pictures.size | times: 2 %}
+      <div class="row">
+      {% if page.pictures %}
+        {% for image in page.pictures %}
+          <a href="{{ image }}" title="author photo">
+            <img class="image-responsive col-xs-2" src="{{ image }}" alt="Screenshot">
+          </a>
+        {% endfor %}
+        {% if images_width > 4 %} </div> {% endif %}
+      {% endif %}
+      {% if page.bios %}
+        {% if images_width > 4 %} <div class="row"> {% endif %}
+        {% if images_width > 4 %}
+          {% assign bios_width = 12 %}
+        {% else %}
+          {% assign bios_width = 12 | minus: images_width %}
+        {% endif %}
+        <p class="col-xs-{{ bios_width }}">{{ page.bios | newline_to_br }}</p>
+        {% if images_width > 4 %} </div> {% endif %}
+
+      {% endif %}
+      {% if images_width <= 4 %} </div> {% endif %}
+    {% endif %}
+
+    {% if page.project_website or page.websites or page.twitters %}
+      <br style="clear: both;">
+      <h2>Additional resources</h2>
+    {% endif %}
+
+    {% for website in page.websites %}
+      <p>
+        <a href="{{ website }}">{{ website }}</a>
+      </p>
+    {% endfor %}
+
+    {% if page.project_website %}
+      <p>
+        <a href="{{ page.project_website }}">Project website</a>
+      </p>
+    {% endif %}
+
+    {% for twitter in page.twitters %}
+      <p>
+        <a href="http://twitter.com/{{ twitter }}">{{ twitter }}</a>
+      </p>
+    {% endfor %}
+
+  </article>
+
+</div>

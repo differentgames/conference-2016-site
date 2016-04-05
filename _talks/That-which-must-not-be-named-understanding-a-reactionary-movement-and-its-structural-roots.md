@@ -1,8 +1,6 @@
 ---
-layout: default
-category: talk
+layout: talk
 anchor: That-which-must-not-be-named-understanding-a-reactionary-movement-and-its-structural-roots
-permalink: /schedule#That-which-must-not-be-named-understanding-a-reactionary-movement-and-its-structural-roots
 title: That which must not be named&colon; understanding a reactionary movement and its structural roots
 presenters:
   - Carolyn Jong

@@ -1,0 +1,6 @@
+_talks/An-education-of-ones-own-bringing-intersectional-discussion-to-games-education.md
+_talks/coffee-a-misunderstanding.md
+_talks/Critics-in-conversation.md
+_talks/Gender-videogames-past-present-future-possibilities.md
+_talks/That-which-must-not-be-named-understanding-a-reactionary-movement-and-its-structural-roots.md
+_talks/Working-with-Indigenous-Communities.md

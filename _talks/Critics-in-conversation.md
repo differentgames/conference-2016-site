@@ -1,8 +1,6 @@
 ---
-layout: default
-category: talk
+layout: talk
 anchor: Critics-in-conversation
-permalink: /schedule#Critics-in-conversation
 title: Critics in Conversation&colon; Kotaku managing editor Riley MacLeod presents Saturday's keynote speaker, academic and Giant Bomb editor Austin Walker
 presenters:
   - Riley MacLeod

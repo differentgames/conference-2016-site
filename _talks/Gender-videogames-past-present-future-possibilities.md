@@ -1,8 +1,6 @@
 ---
-layout: default
-category: talk
+layout: talk
 anchor: Gender-videogames-past-present-future-possibilities
-permalink: /schedule#Gender-videogames-past-present-future-possibilities
 title: Gender & Videogames&colon; Past, Present, & Future Possibilities
 presenters:
   - Jen Jenson

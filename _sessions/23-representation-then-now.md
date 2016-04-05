@@ -14,4 +14,5 @@ track: General
 
 talks:
   - Making Queer Games History&colon; The assessment of LGBTQ game content
+  - Deviant Male Identities in Japanese RPGs&colon; Heterosexual Heroes, Gay Villains
 ---

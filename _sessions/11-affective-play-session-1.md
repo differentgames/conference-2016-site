@@ -15,4 +15,5 @@ track: Affective Play
 talks:
   - Play design&colon; a self-consciousness act
   - Post-Mortem of Take Care&colon; A Game and Wellness Jam
+  - Solace State&colon; The People's Negotiation in the Politics of Affect
 ---

@@ -1,8 +1,6 @@
 ---
-layout: default
-category: talk
+layout: talk
 anchor: Working-with-Indigenous-Communities
-permalink: /schedule#Working-with-Indigenous-Communities
 title: Working with Indigenous Communities
 presenters:
   - Josh Samuels

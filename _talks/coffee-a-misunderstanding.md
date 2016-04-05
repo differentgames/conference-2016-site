@@ -1,8 +1,6 @@
 ---
-layout: default
-category: talk
+layout: talk
 anchor: coffee-a-misunderstanding
-permalink: /schedule#coffee-a-misunderstanding
 title: Coffee&colon; A Misunderstanding
 presenters:
   - Dietrich Squinkifer

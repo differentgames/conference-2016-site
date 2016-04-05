@@ -24,8 +24,9 @@
               {% if session %}
                 <a href="{{session.permalink}}" class="session-link">{{ session.title }}</a>
                    <ul class="talks-in-schedule">
-                  {% for talk in session.talks %}
-                    <li clas="listed-talk">{{ talk }}</li>
+                  {% for talk_name in session.talks %}
+                    {% assign talk = site.talks | where: "title", talk_name | first %}
+                    <li><a href="{{ talk.url }}">{{ talk.title }}</a></li>
                   {% endfor %}
                 </ul>
 
@@ -50,8 +51,9 @@
               {{ room }} -
               <a href="{{session.permalink}}" class="session-link">{{ session.title }}</a>
                  <ul class="talks-in-schedule">
-                {% for talk in session.talks %}
-                  <li clas="listed-talk">{{ talk }}</li>
+                {% for talk_name in session.talks %}
+                  {% assign talk = site.talks | where: "title", talk_name | first %}
+                  <li><a href="{{ talk.url }}">{{ talk.title }}</a></li>
                 {% endfor %}
               </ul>
             </li>

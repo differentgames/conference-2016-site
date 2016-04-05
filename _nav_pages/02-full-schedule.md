@@ -40,7 +40,7 @@ permalink: /schedule/
       {% for talkName in session.talks %}
       {% assign talk = site.talks | where: "title", talkName | first %}
       <li class="talk-listing">
-        <h3 class="talk-title">{{ talk.title }}</h3>
+        <a href="{{ talk.url }}"><h3 class="talk-title">{{ talk.title }}</h3></a>
         <ul class="presenters">
           {% for presenter in talk.presenters %}
             <li class="presenter">{{ presenter }}</li>

@@ -1,9 +1,9 @@
 ---
 layout: default
 category: session
-anchor: affective-play-session-4
-title: Affective Play Session &#35;4
-permalink: /schedule#affective-play-session-4
+anchor: affective-play-session-3
+title: Affective Play Session &#35;3
+permalink: /schedule#affective-play-session-3
 
 day: Saturday
 time: 4&colon;30pm - 5&colon;45pm

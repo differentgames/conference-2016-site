@@ -3,7 +3,9 @@
   {% assign rooms = day.items | group_by: "room" | map: "name" %}
   {% assign times = day.items | group_by: "time" | map: "name"%}
   <h3>{{ day.name }}</h3>
-  <table class="table table-striped">
+
+  <!-- desktop view -->
+  <table class="table table-striped visible-md-block visible-lg-block">
     <thead>
       <tr>
         <th></th>
@@ -34,4 +36,28 @@
       {% endfor %}
     </tbody>
   </table>
+
+  <!-- mobile view -->
+  {% for time in times %}
+    <div class="panel panel-default visible-xs-block visible-sm-block">
+      <div class="panel-heading">{{ time }}</div>
+
+      <ul class="list-group">
+        {% for room in rooms %}
+          {% assign session = day.items | where: "room", room | where: "time", time | first %}
+          {% if session %}
+            <li class="list-group-item">
+              {{ room }} -
+              <a href="{{session.permalink}}" class="session-link">{{ session.title }}</a>
+                 <ul class="talks-in-schedule">
+                {% for talk in session.talks %}
+                  <li clas="listed-talk">{{ talk }}</li>
+                {% endfor %}
+              </ul>
+            </li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </div>
+  {% endfor %}
 {% endfor %}

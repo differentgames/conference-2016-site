@@ -2,7 +2,7 @@
 layout: game
 title: Cope With Me
 presenters: Indira Ardolic
-website: 
+website:
 images:
   - /images/games/cope-with-me-1.png
   - /images/games/cope-with-me-2.png

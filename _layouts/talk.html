@@ -8,7 +8,9 @@ layout: default
       <small>presented by {{ page.presenters | array_to_sentence_string }}</small>
     </h1>
     {% assign talk_session = site.sessions | where: "talks", page.title | first %}
-    <p class="text-muted">Part of <a href="{{ talk_session.permalink }}">{{ talk_session.title }}</a></p>
+    {% if talk_session %}
+      <p class="text-muted">Part of <a href="{{ talk_session.permalink }}">{{ talk_session.title }}</a></p>
+    {% endif %}
   </header>
 
   <article class="post-content">

@@ -1,7 +1,7 @@
 ---
 layout: game
 title: Into
-presenters: Animal Phase (Charles Taylor Elwonger, Sound & Music by Jocelyn Reyes)
+presenters: Animal Phase (Charle Taylor Elwonger, Sound & Music by Jocelyn Reyes)
 website: http://animalphase.com/into/
 images:
   - /images/games/into-1.gif
@@ -10,9 +10,9 @@ images:
 team_website: http://animalphase.com
 twitter: "@animalphase"
 bio: |
-  charles taylor elwonger — designer & developer — @animalphase
+  charle taylor elwonger — designer & developer — @animalphase
 
-  charles taylor elwonger is an interactive/game artist working on personal projects through “Animal Phase”.
+  charle taylor elwonger is an interactive/game artist working on personal projects through “Animal Phase”.
 
   Jocelyn Reyes — Sound & Music — @jirisrey
 

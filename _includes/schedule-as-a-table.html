@@ -1,0 +1,65 @@
+{% assign days = site.sessions | group_by:"day" | sort: "name" %}
+{% for day in days %}
+  {% assign rooms = day.items | group_by: "room" | map: "name" %}
+  {% assign times = day.items | group_by: "time" | map: "name"%}
+  <h3>{{ day.name }}</h3>
+
+  <!-- desktop view -->
+  <table class="table table-striped visible-md-block visible-lg-block">
+    <thead>
+      <tr>
+        <th></th>
+        {% for room in rooms %}
+          <th>{{ room }}</th>
+        {% endfor %}
+      </tr>
+    </thead>
+    <tbody>
+      {% for time in times %}
+        <tr>
+          <th class="col-xs-1 time-listing">{{time}}</th>
+          {% for room in rooms %}
+            {% assign session = day.items | where: "room", room | where: "time", time | first %}
+            <td>
+              {% if session %}
+                <a href="{{session.permalink}}" class="session-link">{{ session.title }}</a>
+                   <ul class="talks-in-schedule">
+                  {% for talk_name in session.talks %}
+                    {% assign talk = site.talks | where: "title", talk_name | first %}
+                    <li><a href="{{ talk.url }}">{{ talk.title }}</a></li>
+                  {% endfor %}
+                </ul>
+
+              {% endif %}
+            </td>
+          {% endfor %}
+        </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+
+  <!-- mobile view -->
+  {% for time in times %}
+    <div class="panel panel-default visible-xs-block visible-sm-block">
+      <div class="panel-heading">{{ time }}</div>
+
+      <ul class="list-group">
+        {% for room in rooms %}
+          {% assign session = day.items | where: "room", room | where: "time", time | first %}
+          {% if session %}
+            <li class="list-group-item">
+              {{ room }} -
+              <a href="{{session.permalink}}" class="session-link">{{ session.title }}</a>
+                 <ul class="talks-in-schedule">
+                {% for talk_name in session.talks %}
+                  {% assign talk = site.talks | where: "title", talk_name | first %}
+                  <li><a href="{{ talk.url }}">{{ talk.title }}</a></li>
+                {% endfor %}
+              </ul>
+            </li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </div>
+  {% endfor %}
+{% endfor %}

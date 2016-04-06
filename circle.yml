@@ -1,6 +1,11 @@
+checkout:
+  post:
+    - git submodule sync
+    - git submodule update --init
+
 test:
   override:
-    - bundle exec jekyll build && bundle exec htmlproof _site
+    - bundle exec jekyll build && bundle exec htmlproof --disable-external _site
 machine:
   ruby:
     version: 2.1.1

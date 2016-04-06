@@ -1,0 +1,70 @@
+---
+layout: default
+---
+<div class="game">
+  <header class="post-header">
+    <h1 class="post-title">
+      {{ page.title }}
+      <small>by {{ page.presenters }}</small>
+    </h1>
+  </header>
+
+  <article class="post-content">
+    {{ content }}
+
+    {% if page.images %}
+    <div class="row">
+    {% capture colsize %}{{ 12 | divided_by: page.images.size }}{% endcapture %}
+    {% for image in page.images %}
+      <a href="{{ image }}">
+        <img class="image-responsive col-xs-{{ colsize }}" src="{{ image }}" alt="Screenshot">
+      </a>
+    {% endfor %}
+    </div>
+    {% endif %}
+
+    {% if page.bio or page.team_images %}
+      <br>
+      <h2>About the author(s)</h2>
+      {% assign images_width = page.team_images.size | times: 2 %}
+      <div class="row">
+      {% if page.team_images %}
+        {% for image in page.team_images %}
+          <a href="{{ image }}" title="author photo">
+            <img class="image-responsive col-xs-2" src="{{ image }}" alt="Screenshot">
+          </a>
+        {% endfor %}
+      {% endif %}
+
+      {% if page.bio %}
+        <p class="col-xs-{{ 12 | minus: images_width }}">{{ page.bio | newline_to_br }}</p>
+      {% endif %}
+    </div>
+    {% endif %}
+
+    {% if page.website or page.team_website %}
+      <br style="clear: both;">
+      <h2>Additional resources</h2>
+    {% endif %}
+
+    {% if page.website %}
+      <p>
+        <a href="{{ page.website }}">{{ page.title }}</a>
+      </p>
+    {% endif %}
+
+    {% if page.team_website %}
+      <p>
+        <a href="{{ page.team_website }}">{{ page.presenters }}</a>
+      </p>
+    {% endif %}
+
+    {% if page.twitter %}
+      <p>
+        <a href="http://twitter.com/{{ page.twitter }}">{{ page.twitter }}</a>
+      </p>
+    {% endif %}
+
+  </article>
+
+</div>

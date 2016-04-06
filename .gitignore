@@ -1,3 +1,5 @@
 _site
 .sass-cache
 .ftp_config
+.DS_Store
+

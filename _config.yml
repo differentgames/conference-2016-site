@@ -19,5 +19,12 @@ exclude:
   - Gemfile.lock
 
 collections:
+  talks:
+    output: true
   nav_pages:
     output: true
+  sessions:
+  games:
+    output: true
+    permalink: /arcade/:path/
+  sponsors:

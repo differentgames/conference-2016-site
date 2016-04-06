@@ -27,7 +27,7 @@ $on-laptop:        800px;
 
 $pinwheel-blue:    #7bbcd7;
 $pinwheel-yellow:  #e1cc3f;
-$pinwheel-red:     #e63112;
+$pinwheel-red:     #f64122;
 $pinwheel-green:   #01b171;
 $pinwheel-dark-blue:#49506a;
 $pinwheel-off-white:#f8fbe8;
@@ -53,6 +53,10 @@ $pinwheel-off-white:#f8fbe8;
         "base",
         "layout",
         "syntax-highlighting",
-        "pinwheel",
-        "cfp"
+        "pinwheel/common",
+        "pinwheel/conf-theme",
+        "pinwheel/cfp",
+        "pinwheel/schedule",
+        "pinwheel/sponsors"
+
 ;

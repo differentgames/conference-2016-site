@@ -11,7 +11,7 @@ track: General
 session: Representation Then &amp; Now
 day: Saturday
 time: 3&colon;00pm
-room: Rm. 805
+room: Rm. 816
 bios: |
   Adrienne Shaw is an assistant professor in the Department of Media Studies and Production at Temple University and a Media and Communications PhD program faculty member. Her primary areas of research are video games, gaming culture, the politics of representation, gender and sexuality, and qualitative research. She is author of the book Gaming at the Edge: Sexuality and Gender at the Margins of Gamer Culture (University of Minnesota Press, 2014). 
   

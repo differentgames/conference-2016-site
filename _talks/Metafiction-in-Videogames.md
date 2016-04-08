@@ -9,7 +9,7 @@ track:
 session: Doing More With Games
 day: Saturday
 time: 11&colon;30am
-room: Room 805
+room: Room 816
 bios: |
   James Earl Cox III is both a graduate student in the IMGD MFA program at USC and a digital wizard. He holds BA degrees in Creative Writing, Mass Communication, and Interactive Media from Miami University of Ohio. James has created over 50 freeware games, exhibiting at venues including IndieCade, DIGRA, EGX, Tokyo Game Show, and the Smithsonian. His games can be found at www.SeeminglyPointless.com. Currently, he is completing a challenge of making 100 games in 5 years. His twitter is @Just404it and yes, he would love to watch The Room with you.
 pictures:

@@ -9,7 +9,7 @@ track: Video Games &amp; Indigenous Culture
 session: Video Games &amp; Indigenous Culture
 day: Saturday
 time: 1&colon;30pm
-room: Rm. 805
+room: Rm. 816
 bios: |
   Josh Samuels has been an independent video game developer for over 12 years and a software engineer for over 14 years. He is the Studio Lead for Raindrop Games (raindropgames.com), creators of Arrival: Village Kasike. Josh also works as a senior software engineer for BloomBoard, an educational startup company in Silicon Valley. Josh co-founded the Allies Initiative sub-group of the IGDA’s Women In Games SIG with Celia Pearce.
   

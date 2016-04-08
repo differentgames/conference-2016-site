@@ -9,7 +9,7 @@ track:
 session: Doing More With Games
 day: Saturday
 time: 11&colon;30am
-room: Room 805
+room: Room 816
 bios: |
   Amanda is a second-year MA student from the Joint Communication and Culture Program at Ryerson and York Universities focusing on Technology in Practice. Her game interests include diversity in game culture, indie and alternative games and eSports. She is also in the process of learning how to curate pop-up arcades.
 pictures:

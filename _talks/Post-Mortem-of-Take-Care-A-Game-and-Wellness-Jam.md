@@ -10,7 +10,7 @@ track:
 session: Doing More With Games
 day: Saturday
 time: 11&colon;30am
-room: Room 805
+room: Room 816
 bios: |
   Stephanie Fisher is a PhD candidate in York University&#39;s Language, Culture and Teaching program. Broadly, her research interests include critical inquiry into young people&#39;s use of new media and information communication technologies, the cultivation of new media literacies in formal and informal learning contexts, participatory culture and DIY citizenship, feminist pedagogy, serious game design, and critical inquiry into the design and implementation of community-run gender-equity initiatives. 
 TODO_pictures:

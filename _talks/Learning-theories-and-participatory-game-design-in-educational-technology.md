@@ -16,7 +16,7 @@ track: Participatory Game Design
 session: Participatory Game Design Workshop
 day: Friday
 time: 7&colon;00pm to 7&colon;50pm
-room: Rm. 805
+room: Rm. 816
 bios: |
   Dr. Giuliana Cucinelli is an Assistant Professor in the Educational Technology Program in the Department of Education at Concordia University, and the co-director of the Community and Differential Motilities cluster for Concordia University's Institute for Digital Arts, Culture and Technology. She is also a research affiliate of the Mobilities Lab at Concordia University.Cucinelli's research-creation program explores the areas of digital media theory and production including social media, media education, youth culture and digital media practices, interactive media theory and production, critical pedagogy, teacher education, community/cultural/media activism, emergent media practices, inter-generational storytelling, critical disabilities, ageing and technology, and mobilities. Currently, she is Principal Investigator on a FRQSC's (Fonds de recherche du Québec - Société et culture) Nouveaux chercheurs program on youth media practices, identity, and online sociability. Curricula and long lasting collaborative platforms are being co-designed and implemented with primary and secondary education teachers, and community groups in Montreal. Additionally, an interactive-documentary about the media practices and themes is being developed, as a follow-up to the initial documentary Our Privacy Matters! Youth, Identity and Online Sociability. Additionally she is a PI on a Concordia funded research-creation project Virtual Reality and Empathy Education: Understanding Cultural, Gender and Ethnic Difference in the Workplace.
   

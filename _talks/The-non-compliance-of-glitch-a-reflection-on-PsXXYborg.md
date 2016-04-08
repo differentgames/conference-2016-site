@@ -11,7 +11,7 @@ track: Player Agency, Mods, &amp; Glitches
 session: Player Agency, Mods, &amp; Glitches Session &#35;3
 day: Saturday
 time: 4&colon;30pm
-room: Rm. 805
+room: Rm. 816
 bios: |
   Hannah Epstein (AKA hanski) is a folk media artist working in the cross-section of experimental games and visual art. Of mixed Latvian and Ashkenazi-Jewish heritage, Epstein draws on her liminal identity to drive a psychedelic and collage aesthetic and will often use play and games to create bottom-up storytelling experiences. She is currently an MFA candidate at Carnegie Mellon.
   

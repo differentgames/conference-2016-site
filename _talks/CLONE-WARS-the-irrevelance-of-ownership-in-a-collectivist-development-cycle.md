@@ -9,7 +9,7 @@ track: Accessible Game Design
 session: Accessible Game Design
 day: Saturday
 time: 1&colon;30pm
-room: Rm. 803
+room: Rm. 811
 bios: |
   Mohini is a game designer and narrative strategist at Antidote Games where she consults on play and design strategy with global non profits. Her passion for storytelling took her first to journalism, then films, finally settling on game making. Mohini enjoys linking games to feminism, media and cultural theory, and is spends her free time thinking about global cultures of play. 
 pictures:

@@ -29,7 +29,7 @@ layout: default
 
     {% if page.bios or page.pictures %}
       <br>
-      <h2>About the author(s)</h2>
+      <h2>About the presenter{% if page.presenters.size > 1 %}s{% endif %}</h2>
       {% assign images_width = page.pictures.size | times: 2 %}
       <div class="row">
       {% if page.pictures %}

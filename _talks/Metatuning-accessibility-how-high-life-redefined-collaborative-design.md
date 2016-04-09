@@ -14,11 +14,18 @@ day: Saturday
 time: 1&colon;30pm
 room: Rm. 811
 bios: |
-  Laquana Cooke is a PhD Candidate in Communication and Rhetoric at Rensselaer Polytechnic Institute whose dissertation seeks to amend current game-based learning (GBL) strategies to address racial/ethnic disparities in STEM Education through a game design pedagogical framework she conceptualizes as Metatuning. Metatuning, as a result of Laquana’s interdisciplinary and multi-industrial experiences, sits at the intersection of critical pedagogy, games criticism, and the performative view of game design practices. As a part-time Game Designer, Laquana’s research and teaching revolves around concepts of students&#39;/ players’ sociotechnical and sociocultural experiences in procedural spaces. Ben Chang is an electronic artist and director of the Games and Simulation Arts and Sciences program at Rensselaer. His work explores the intersections of virtual environments and experimental gaming with contemporary media art. Using materials ranging from immersive visualization systems to modified surveillance cameras, hacked video games, and antique telegraphs, his work brings out the chaotic, human qualities in technological systems.Darryl Nunn is a Game Designer at 1st Playable Productions. Foster is a youth advocate for Real Talk.
+  Laquana Cooke is a PhD Candidate in Communication and Rhetoric at Rensselaer Polytechnic Institute whose dissertation seeks to amend current game-based learning (GBL) strategies to address racial/ethnic disparities in STEM Education through a game design pedagogical framework she conceptualizes as Metatuning. Metatuning, as a result of Laquana’s interdisciplinary and multi-industrial experiences, sits at the intersection of critical pedagogy, games criticism, and the performative view of game design practices. As a part-time Game Designer, Laquana’s research and teaching revolves around concepts of students'/ players’ sociotechnical and sociocultural experiences in procedural spaces.
+  
+  Jamey Stevenson is a designer and programmer with over a decade of experience creating video games for handheld, mobile, desktop and web. He is the founder of Tech Valley Game Space and is also the proprietor of Spoony Bird independent game studio.
+  
+  Ben Chang is an electronic artist and director of the Games and Simulation Arts and Sciences program at Rensselaer. His work explores the intersections of virtual environments and experimental gaming with contemporary media art. Using materials ranging from immersive visualization systems to modified surveillance cameras, hacked video games, and antique telegraphs, his work brings out the chaotic, human qualities in technological systems.
+  
+  Darryl Nunn is a Game Designer at 1st Playable Productions. Real Talk teens, a youth driven initiative of the Alliance for Positive Health, create technology-based role-model story projects while developing personal prevention skills.
 pictures:
   - /images/presenters/metatuning-1.jpg
 twitters:
   - "@virtuouswmnphd"
+  - "@dreamlogician"
 websites:
   - "http://www.laquanacooke.com/"
 ---
